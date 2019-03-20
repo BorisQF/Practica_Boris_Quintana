@@ -1,0 +1,27 @@
+{
+    "name": "api_rest",
+    "version": "1.0.0",
+    "description": "API REST - CRUD",
+    "main": "index.js",
+    "scripts": {
+        "start": "node src/index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/BorisQF/Practica_Boris_Quintana.git"
+    },
+    "author": "Boris Quintana Fajardo",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/BorisQF/Practica_Boris_Quintana/issues"
+    },
+    "homepage": "https://github.com/BorisQF/Practica_Boris_Quintana#readme",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "express": "^4.16.4",
+        "mongoose": "^5.4.19",
+        "mongoose-unique-validator": "^2.0.2",
+        "underscore": "^1.9.1"
+    }
+}
