@@ -1,7 +1,8 @@
 const express = require('express');
 const app = express();
-const Provider = require('./provider');
+const Providers = require('./providers');
 
-app.use('/provider', Provider);
+// Creating routes
+app.use('/providers', Providers);
 
 module.exports = app;
