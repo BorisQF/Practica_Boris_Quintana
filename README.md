@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-1. Install node v8 or higher.
+1. Install node version 8 or higher.
     https://nodejs.org/en/download/
 
 
@@ -25,6 +25,18 @@ npm start
 ```
 
 And Server started on port 5000.
+
+
+### Dependencies 
+
+```
+"body-parser": "^1.18.3",
+"express": "^4.16.4",
+"mongoose": "^5.4.19",
+"mongoose-unique-validator": "^2.0.2",
+"underscore": "^1.9.1"
+
+```
 
 ### API Documentation.
 
