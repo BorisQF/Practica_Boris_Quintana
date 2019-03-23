@@ -9,3 +9,7 @@ mongoose.connect(process.env.URL_DB, { useNewUrlParser: true })
     .catch((err) => {
         console.log(`Connection error to the DB: ${err}`);
     });
+
+// para quitar el warning de obsoleto
+mongoose.set('useFindAndModify', false);
+mongoose.set('useCreateIndex', true);
