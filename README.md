@@ -12,16 +12,23 @@ These instructions will get you a copy of the project up and running on your loc
     https://nodejs.org/en/download/
 
 
-### Run the server
+### Run the Server
 
-Clone or Download this repository.
+Download this repository (Practica_Boris_Quintana_Backend). 
 
-Open the proyect and run: 
+Open the project and run the next command in the terminal: 
 
 ```
+npm install
+
 npm start
 ```
 
+And Server started on port 5000.
+
+### API Documentation.
+
+Open next link: https://documenter.getpostman.com/view/4179356/S17qSUnJ
 
 
 
