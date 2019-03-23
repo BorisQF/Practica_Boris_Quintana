@@ -1,6 +1,6 @@
 # Practica_Boris_Quintana_Backend
 
-Api REST in Node.js
+API REST in Node.js
 
 ## Getting Started
 
@@ -10,6 +10,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Install node version 8 or higher.
     https://nodejs.org/en/download/
+    
+2. Install POSTMAN to test the API REST. 
+    https://www.getpostman.com/downloads/
 
 
 ### Run the Server
@@ -41,6 +44,9 @@ And Server started on port 5000.
 ### API Documentation.
 
 Open next link: https://documenter.getpostman.com/view/4179356/S17qSUnJ
+
+Open POSTMAN and test the API REST.
+
 
 
 
